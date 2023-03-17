@@ -7,13 +7,13 @@
 
   Poseo conocimientos en 𝙡𝙚𝙣𝙜𝙪𝙖𝙟𝙚𝙨 𝙮 𝙝𝙚𝙧𝙧𝙖𝙢𝙞𝙚𝙣𝙩𝙖𝙨 como:
 
-✔ HTML.
-✔ CSS.
-✔ JavaScript.
-✔ TypeScript.
-✔ Java.
-✔ PHP.
-✔ Node.
+✔ HTML. 
+✔ CSS. 
+✔ JavaScript. 
+✔ TypeScript. 
+✔ Java. 
+✔ PHP. 
+✔ NodeJS. 
 
 𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨 / 𝙗𝙞𝙗𝙡𝙞𝙤𝙩𝙚𝙘𝙖𝙨:
 
