@@ -40,8 +40,18 @@ Trato de estar constantemente aprendiendo para adquirir nuevas habilidades técn
 
 <hr>
 <div align="center">
-<img src="https://d2k7w3fmrpj0w4.cloudfront.net/advices/photos/000/000/798/medium/999c58e98401e287626190d3aff58c48d3411610.jpg?1642017136" width="100%";height:"auto">
+<img src="https://www.factoriabiz.com/wp-content/uploads/2018/03/contratar_programador.jpg" width="100%";height:"auto">
 </div>
+<hr>
+
+<p>function <b>getInTouch()</b> {</p>
+    <p>var <b>name:</b> <i>"Javier Bava";</i></p>
+    <p>var <b>title:</b> <i>"Programmer";</i></p>
+    <p>var <b>phone:</b> <i>"+54 (11) 3635 9368";</i></p>
+    <p>var <b>email:</b> <i>"JavierBava@outlook.com";</i></p>
+    <p>var <b>url:</b> <i>"https://www.linkedin.com/in/javier-bava";</i></p>
+<p>}</p>
+<p><b>getInTouch();</b></p>
 </body>
 <hr>
 <footer><p align="center"><B>© JaviBava 2023</B></p></footer>
