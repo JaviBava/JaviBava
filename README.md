@@ -4,6 +4,9 @@
 <div>
 <a href="https://github.com/JaviBava" target="_blank"><img src="https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbf151fa4565d48572dc_GitHub_aprender-programaci%25C3%25B3n.jpeg" width="50px"; weight="50px"></a>
 <a href="https://instagram.com/javier.bava?igshid=ZDdkNTZiNTM="><img src="https://ak.uecdn.es/p/108/thumbnail/entry_id/0_spj840co/width/674/type/2/bgcolor/000000/0_spj840co.jpg" width="50px"; weight="50px"></a>
+<a href="https://www.linkedin.com/in/javier-bava"><img src="https://1000marcas.net/wp-content/uploads/2020/01/LinkedIn-emblema.jpg" width="50px"; weight="50px"></a>
+
+
 </div>
 </div>
 <hr>
