@@ -1,32 +1,49 @@
 <header><h1 align="center">𝙅𝙖𝙫𝙞𝙚𝙧 𝘽𝙖𝙫𝙖</h1></header>
+<div> 
+<p><b>Social:</b></p>
+<div>
+<a href="github.com/JaviBava"><img src="https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbf151fa4565d48572dc_GitHub_aprender-programaci%25C3%25B3n.jpeg" width="50px"; weight="50px"></a>
+</div>
+</div>
 <hr>
 <img src="https://talently.tech/blog/wp-content/uploads/2022/03/ramas-de-la-programacion-scaled.jpg" width="100%">
 <hr>
 <body>
 
 👋 ¡𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱! Sean bienvenidos a mi perfil. Me presento, mi nombre es 𝙅𝙖𝙫𝙞𝙚𝙧. Actualmente vivo en Buenos Aires, Argentina 🇦🇷. Me considero un apasionado de la tecnología y el conocimiento. Enfocado en progresar en el 𝘿𝙚𝙨𝙖𝙧𝙧𝙤𝙡𝙡𝙤 𝙒𝙚𝙗 y 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙖𝙘𝙞𝙤𝙣.
-
+<br>
+<hr>
   Poseo conocimientos en 𝙡𝙚𝙣𝙜𝙪𝙖𝙟𝙚𝙨 𝙮 𝙝𝙚𝙧𝙧𝙖𝙢𝙞𝙚𝙣𝙩𝙖𝙨 como:
 <div>
 <img src="https://us.123rf.com/450wm/freestyle25/freestyle252207/freestyle25220700011/190278964-colecci%C3%B3n-de-vectores-de-signos-de-escudo-de-desarrollo-web-html5-css3-javascript.jpg?ver=6" width="100%">
-
 </div> 
-✔ TypeScript. 
-✔ Java. 
-✔ PHP. 
-✔ NodeJS. 
+<div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50px"; weight="50px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlWkibXFdfUB7h7FmKLmgwxe-__BdMPGNGDA&usqp=CAU" width="70px"; weight="70px">
+<img src="https://logowik.com/content/uploads/images/php.jpg" width="50px"; weight="100px">
+<img src="https://informatics.uii.ac.id/wp-content/uploads/2022/09/nodejs.png" width="100px"; weight="50px">
+</div>
+<br>
+<hr>
 
-𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨 / 𝙗𝙞𝙗𝙡𝙞𝙤𝙩𝙚𝙘𝙖𝙨:
+𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨:
 
-✔ React.
-✔ Angular.
-✔ Bootstrap.
-✔ Vue.
+<div>
+<img src="https://ourcodeworld.com/public-media/articles/articleocw-5d653602443b7.webp" width="100%"; weight="50px">
+</div>
+<div>
+<img src="https://i2.wp.com/curiotek.com/wp-content/uploads/2015/03/bootstrap-logo.jpg" width="100%"; weight="50px"
+</div>
+<br>
+<hr>
 
 𝘽𝙖𝙨𝙚𝙨 𝙙𝙚 𝙙𝙖𝙩𝙤𝙨:
 
-✔ MySQL.
-✔ MongoDB.
+<div>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png" width="100%"; weight="50px">
+</div>
+<br>
+<hr>
 
 𝙊𝙩𝙧𝙖𝙨 𝙝𝙖𝙗𝙞𝙡𝙞𝙙𝙖𝙙𝙚𝙨:
 
