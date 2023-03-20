@@ -19,13 +19,14 @@
 <hr>
   Tengo conocimientos en estos 𝙡𝙚𝙣𝙜𝙪𝙖𝙟𝙚𝙨 𝙮 𝙝𝙚𝙧𝙧𝙖𝙢𝙞𝙚𝙣𝙩𝙖𝙨:
 <div>
-<img src="https://us.123rf.com/450wm/freestyle25/freestyle252207/freestyle25220700011/190278964-colecci%C3%B3n-de-vectores-de-signos-de-escudo-de-desarrollo-web-html5-css3-javascript.jpg?ver=6" width="100%">
+<img src="https://us.123rf.com/450wm/freestyle25/freestyle252207/freestyle25220700011/190278964-colecci%C3%B3n-de-vectores-de-signos-de-escudo-de-desarrollo-web-html5-css3-javascript.jpg?ver=6" width="50%"; height:"200px">
 </div> 
 <div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50px"; weight="50px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlWkibXFdfUB7h7FmKLmgwxe-__BdMPGNGDA&usqp=CAU" width="70px"; weight="70px">
-<img src="https://logowik.com/content/uploads/images/php.jpg" width="50px"; weight="100px">
-<img src="https://informatics.uii.ac.id/wp-content/uploads/2022/09/nodejs.png" width="100px"; weight="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="100px"; w
+     height="100px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlWkibXFdfUB7h7FmKLmgwxe-__BdMPGNGDA&usqp=CAU" width="150px"; height="100px">
+<img src="https://logowik.com/content/uploads/images/php.jpg" width="150px"; height="100px">
+<img src="https://informatics.uii.ac.id/wp-content/uploads/2022/09/nodejs.png" width="150px"; height="100px">
 </div>
 <br>
 <hr>
