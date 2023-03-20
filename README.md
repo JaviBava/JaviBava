@@ -1,10 +1,10 @@
 <header><h1 align="center">𝙅𝙖𝙫𝙞𝙚𝙧 𝘽𝙖𝙫𝙖</h1></header>
 <div> 
 <p><b>Social:</b></p>
-<div>
-<a href="https://github.com/JaviBava" target="_blank"><img src="https://blog.geekhunter.com.br/wp-content/uploads/2017/08/github-768x384.png" width="60px"; weight="50px"></a>
-<a href="https://instagram.com/javier.bava?igshid=ZDdkNTZiNTM="><img src="https://ak.uecdn.es/p/108/thumbnail/entry_id/0_spj840co/width/674/type/2/bgcolor/000000/0_spj840co.jpg" width="55px"; weight="50px"></a>
-<a href="https://www.linkedin.com/in/javier-bava"><img src="https://1000marcas.net/wp-content/uploads/2020/01/LinkedIn-emblema.jpg" width="55px"; weight="50px"></a>
+<div align="center">
+<a href="https://github.com/JaviBava" target="_blank"><img src="https://blog.geekhunter.com.br/wp-content/uploads/2017/08/github-768x384.png" width="200px"; height=100px"></a>
+<a href="https://instagram.com/javier.bava?igshid=ZDdkNTZiNTM="><img src="https://ak.uecdn.es/p/108/thumbnail/entry_id/0_spj840co/width/674/type/2/bgcolor/000000/0_spj840co.jpg" width="200px"; height=100px"></a>
+<a href="https://www.linkedin.com/in/javier-bava"><img src="https://1000marcas.net/wp-content/uploads/2020/01/LinkedIn-emblema.jpg" width="200px"; height=100px"></a>
 
 
 </div>
@@ -18,10 +18,10 @@
 <br>
 <hr>
   Tengo conocimientos en estos 𝙡𝙚𝙣𝙜𝙪𝙖𝙟𝙚𝙨 𝙮 𝙝𝙚𝙧𝙧𝙖𝙢𝙞𝙚𝙣𝙩𝙖𝙨:
-<div>
+<div align="center">
 <img src="https://us.123rf.com/450wm/freestyle25/freestyle252207/freestyle25220700011/190278964-colecci%C3%B3n-de-vectores-de-signos-de-escudo-de-desarrollo-web-html5-css3-javascript.jpg?ver=6" width="500px"; height:"200px">
 </div> 
-<div>
+<div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="100px"; w
      height="100px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlWkibXFdfUB7h7FmKLmgwxe-__BdMPGNGDA&usqp=CAU" width="150px"; height="100px">
@@ -33,19 +33,19 @@
 
 𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨:
 
-<div>
-<img src="https://ourcodeworld.com/public-media/articles/articleocw-5d653602443b7.webp" width="100%"; weight="50px">
+<div align="center">
+<img src="https://ourcodeworld.com/public-media/articles/articleocw-5d653602443b7.webp" width="500px"; height:"200px">
 </div>
-<div>
-<img src="https://i2.wp.com/curiotek.com/wp-content/uploads/2015/03/bootstrap-logo.jpg" width="100%"; weight="50px"
+<div align="center">
+<img src="https://i2.wp.com/curiotek.com/wp-content/uploads/2015/03/bootstrap-logo.jpg" width="500px"; height:"200px">
 </div>
 <br>
 <hr>
 
 𝘽𝙖𝙨𝙚𝙨 𝙙𝙚 𝙙𝙖𝙩𝙤𝙨:
 
-<div>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png" width="100%"; weight="50px">
+<div align="center">
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png" width="500px"; height:"200px">
 </div>
 <br>
 <hr>
