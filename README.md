@@ -78,6 +78,14 @@
 <p>}</p>
 <p><b>getInTouch();</b></p>
 </span>
+  
+  
+  ![tarjetaPresentacion](https://user-images.githubusercontent.com/103806440/226474212-a49c2937-da4f-4fdc-a98e-2a4670001af5.jpg)
+
+ 
 </body>
 <hr>
 <footer><p align="center"><B>© JaviBava 2023</B></p></footer>
+  
+  
+
