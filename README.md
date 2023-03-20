@@ -67,20 +67,11 @@
 <img src="https://www.factoriabiz.com/wp-content/uploads/2018/03/contratar_programador.jpg" width="100%";height:"auto">
 </div>
 <hr>
+
 <p><b>Business card / Contact:</b></p>
-<span>
-<p>function <b>getInTouch()</b> {</p>
-    <p>var <b>name:</b> <i>"Javier Bava";</i></p>
-    <p>var <b>title:</b> <i>"Programmer";</i></p>
-    <p>var <b>phone:</b> <i>"+54 (11) 3635 9368";</i></p>
-    <p>var <b>email:</b> <i>"JavierBava@outlook.com";</i></p>
-    <p>var <b>url:</b> <i>"https://www.linkedin.com/in/javier-bava";</i></p>
-<p>}</p>
-<p><b>getInTouch();</b></p>
-</span>
   
-  
-  ![tarjetaPresentacion](https://user-images.githubusercontent.com/103806440/226474212-a49c2937-da4f-4fdc-a98e-2a4670001af5.jpg)
+![tarjetaPresentacion](https://user-images.githubusercontent.com/103806440/226474212-a49c2937-da4f-4fdc-a98e-2a4670001af5.jpg)
+
 
  
 </body>
