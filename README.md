@@ -14,10 +14,10 @@
 <hr>
 <body>
 
-👋 ¡𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱! Sean bienvenidos a mi perfil. Me presento, mi nombre es 𝙅𝙖𝙫𝙞𝙚𝙧. Actualmente vivo en Buenos Aires, Argentina 🇦🇷. Me considero un apasionado de la tecnología y el conocimiento. Enfocado en progresar en el 𝘿𝙚𝙨𝙖𝙧𝙧𝙤𝙡𝙡𝙤 𝙒𝙚𝙗 y 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙖𝙘𝙞𝙤𝙣.
+👋 ¡𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱! Sean bienvenidos a mi perfil. Me presento, mi nombre es 𝙅𝙖𝙫𝙞𝙚𝙧. Actualmente vivo en Buenos Aires, Argentina 🇦🇷. Me considero un apasionado de la tecnología y el conocimiento. Enfocado en progresar en 𝘿𝙚𝙨𝙖𝙧𝙧𝙤𝙡𝙡𝙤 y 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙖𝙘𝙞𝙤𝙣.
 <br>
 <hr>
-  Poseo conocimientos en estos 𝙡𝙚𝙣𝙜𝙪𝙖𝙟𝙚𝙨 𝙮 𝙝𝙚𝙧𝙧𝙖𝙢𝙞𝙚𝙣𝙩𝙖𝙨:
+  Tengo conocimientos en estos 𝙡𝙚𝙣𝙜𝙪𝙖𝙟𝙚𝙨 𝙮 𝙝𝙚𝙧𝙧𝙖𝙢𝙞𝙚𝙣𝙩𝙖𝙨:
 <div>
 <img src="https://us.123rf.com/450wm/freestyle25/freestyle252207/freestyle25220700011/190278964-colecci%C3%B3n-de-vectores-de-signos-de-escudo-de-desarrollo-web-html5-css3-javascript.jpg?ver=6" width="100%">
 </div> 
@@ -58,13 +58,15 @@
 ✔ Microsoft Office.
 ✔ Photoshop.
 
-Trato de estar constantemente aprendiendo para adquirir nuevas habilidades técnicas. Me capacito permanentemente.
+<hr>
+<p align="center"><b>Me capacito constantemente, adquiriendo nuevas habilidad y conocimientos.</b></p>
 
 <hr>
 <div align="center">
 <img src="https://www.factoriabiz.com/wp-content/uploads/2018/03/contratar_programador.jpg" width="100%";height:"auto">
 </div>
 <hr>
+<p><b>Business card / Contact:</b></p>
 <span>
 <p>function <b>getInTouch()</b> {</p>
     <p>var <b>name:</b> <i>"Javier Bava";</i></p>
