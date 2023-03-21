@@ -14,7 +14,7 @@
 <hr>
 <body>
 
-👋 ¡𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱! Sean bienvenidos a mi perfil. Me presento, mi nombre es 𝙅𝙖𝙫𝙞𝙚𝙧. Actualmente vivo en Buenos Aires, Argentina 🇦🇷. Me considero un apasionado de la tecnología y el conocimiento. Enfocado en progresar en 𝘿𝙚𝙨𝙖𝙧𝙧𝙤𝙡𝙡𝙤 y 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙖𝙘𝙞𝙤𝙣.
+<p align="justify">👋 ¡𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱! Sean bienvenidos a mi perfil. Me presento, mi nombre es 𝙅𝙖𝙫𝙞𝙚𝙧. Actualmente vivo en Buenos Aires, Argentina 🇦🇷. Me considero un apasionado de la tecnología y el conocimiento. Enfocado en progresar en 𝘿𝙚𝙨𝙖𝙧𝙧𝙤𝙡𝙡𝙤 y 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙖𝙘𝙞𝙤𝙣.</p>
 <br>
 <hr>
   Tengo conocimientos en estos 𝙡𝙚𝙣𝙜𝙪𝙖𝙟𝙚𝙨 𝙮 𝙝𝙚𝙧𝙧𝙖𝙢𝙞𝙚𝙣𝙩𝙖𝙨:
