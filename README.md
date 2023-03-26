@@ -1,4 +1,18 @@
+
+<picture align="center">
+  
+![banner](https://user-images.githubusercontent.com/103806440/227809774-31d8dd80-1789-46b9-a243-1c3241eef21f.jpg)
+
+</picture>
+
 <header><h1 align="center">𝙅𝙖𝙫𝙞𝙚𝙧 𝘽𝙖𝙫𝙖</h1></header>
+
+<div align="center"; width="100px"; heigth="100px">
+  
+ ![programmer](https://user-images.githubusercontent.com/103806440/227808946-ea59b69b-6a32-46a5-9503-760d495737ce.gif)
+  
+</div>
+
 <div> 
 <p><b>Social:</b></p>
 <div align="center">
