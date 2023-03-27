@@ -1,25 +1,19 @@
 
-<picture align="center">
-  
-![banner](https://user-images.githubusercontent.com/103806440/227809774-31d8dd80-1789-46b9-a243-1c3241eef21f.jpg)
-
-</picture>
-
 <header><h1 align="center">𝙅𝙖𝙫𝙞𝙚𝙧 𝘽𝙖𝙫𝙖</h1></header>
 
-<div align="center"; width="100px"; heigth="100px">
+<div align="center">
   
  ![programmer](https://user-images.githubusercontent.com/103806440/227808946-ea59b69b-6a32-46a5-9503-760d495737ce.gif)
   
 </div>
 
 <div> 
-<p><b>Social:</b></p>
-<div align="center">
+<p><b>𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐡𝐢𝐭 𝐦𝐞: :speech_balloon:</b></p>
+<div align="center"; margin="auto">
 <a href="https://github.com/JaviBava" target="_blank"><img src="https://blog.geekhunter.com.br/wp-content/uploads/2017/08/github-768x384.png" width="200px"; height=100px"></a>
-<a href="https://instagram.com/javier.bava?igshid=ZDdkNTZiNTM="><img src="https://ak.uecdn.es/p/108/thumbnail/entry_id/0_spj840co/width/674/type/2/bgcolor/000000/0_spj840co.jpg" width="200px"; height=100px"></a>
+<a href="https://instagram.com/javier.bava?igshid=ZDdkNTZiNTM="><img src="https://seocom.agency/wp-content/uploads/2021/01/Instagram_SEO.gif" width="200px"; height=100px"></a>
 <a href="https://www.linkedin.com/in/javier-bava"><img src="https://1000marcas.net/wp-content/uploads/2020/01/LinkedIn-emblema.jpg" width="200px"; height=100px"></a>
-
+<a href="https://api.whatsapp.com/send?phone=%2B5491136359368&text=Contactame"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRsUMLxDnzxSyWl3GYt6gSv9hx3ExU7GLkuQ&usqp=CAU" width="220px"; height=100px"></a>
 
 </div>
 </div>
