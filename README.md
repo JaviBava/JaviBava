@@ -1,5 +1,9 @@
 <hr>
-<h1 align="center"><b>𝙅𝙖𝙫𝙞𝙚𝙧 𝘽𝙖𝙫𝙖</b></h1>
+<div align="center"; width="100%">
+  
+ <img src="https://user-images.githubusercontent.com/103806440/228086954-31f984e9-eaaa-43c0-98ff-d616c176eb19.jpg" width="100%" height="150px">
+
+</div>
 <hr>
 
 <div align="center">
@@ -46,10 +50,10 @@
 𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔:</b></h2>
 
 <div align="center">
-<img src="https://ourcodeworld.com/public-media/articles/articleocw-5d653602443b7.webp" width="500px"; height:"200px">
+<img src="https://sloboda-studio.com/wp-content/uploads/2018/04/1.png" width="500px"; height:"200px">
 </div>
 <div align="center">
-<img src="https://i2.wp.com/curiotek.com/wp-content/uploads/2015/03/bootstrap-logo.jpg" width="500px"; height:"200px">
+<img src="https://www.eniun.com/wp-content/uploads/Bootstrap-descargar-instalar.png" width="500px"; height:"200px">
 </div>
 <br>
 <hr>
@@ -58,7 +62,7 @@
 
 
 <div align="center">
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png" width="500px"; height:"200px">
+<img src="https://www.educative.io/v2api/editorpage/6575689680551936/image/4670199253958656" width="500px"; height:"200px">
 </div>
 <br>
 <hr>
