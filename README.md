@@ -1,6 +1,5 @@
 <hr>
-<h1 align="center">𝙅𝙖𝙫𝙞𝙚𝙧 𝘽𝙖𝙫𝙖</h1>
-
+<h1 align="center"><b>𝙅𝙖𝙫𝙞𝙚𝙧 𝘽𝙖𝙫𝙖</b></h1>
 <hr>
 
 <div align="center">
@@ -26,7 +25,7 @@
 <hr>
 <body>
 
-<p align="justify">👋 ¡𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱! Sean bienvenidos a mi perfil. Me presento, mi nombre es 𝙅𝙖𝙫𝙞𝙚𝙧. Actualmente vivo en Buenos Aires, Argentina. Me considero un apasionado de la tecnología y el conocimiento. Enfocado en avanzar en 𝘿𝙚𝙨𝙖𝙧𝙧𝙤𝙡𝙡𝙤 y 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙖𝙘𝙞𝙤𝙣.</p>
+<p align="justify"><img src="https://cdn-0.emojis.wiki/emoji-pics/apple/globe-showing-americas-apple.png" width="20px"; height="20px"> ¡𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱! Sean bienvenidos a mi perfil. Me presento, mi nombre es 𝙅𝙖𝙫𝙞𝙚𝙧. Actualmente vivo en Buenos Aires, Argentina. Me considero un apasionado de la tecnología y el conocimiento. Enfocado en avanzar en 𝘿𝙚𝙨𝙖𝙧𝙧𝙤𝙡𝙡𝙤 y 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙖𝙘𝙞𝙤𝙣.</p>
 
 <hr>
   <h2><b><img src="https://symbl-world.akamaized.net/i/webp/0d/5232f11b284da4884088de94d0da1d.webp" width="20px" height="20px"> 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 & 𝑻𝒐𝒐𝒍𝒔:</b></h2>
