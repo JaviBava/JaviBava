@@ -50,10 +50,10 @@
 𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔:</b></h2>
 
 <div align="center">
-<img src="https://sloboda-studio.com/wp-content/uploads/2018/04/1.png" width="50%"; height="200px">
+<img src="https://sloboda-studio.com/wp-content/uploads/2018/04/1.png" width="400px"; height="200px">
 </div>
 <div align="center">
-<img src="https://www.eniun.com/wp-content/uploads/Bootstrap-descargar-instalar.png" width="50%"; height="200px">
+<img src="https://www.eniun.com/wp-content/uploads/Bootstrap-descargar-instalar.png" width="400px"; height="200px">
 </div>
 <br>
 <hr>
@@ -62,7 +62,7 @@
 
 
 <div align="center">
-<img src="https://www.educative.io/v2api/editorpage/6575689680551936/image/4670199253958656" width="50%"; height="200px">
+<img src="https://www.educative.io/v2api/editorpage/6575689680551936/image/4670199253958656" width="400px"; height="200px">
 </div>
 <br>
 <hr>
@@ -70,13 +70,13 @@
 <h2><b><img src="https://symbl-world.akamaized.net/i/webp/0d/5232f11b284da4884088de94d0da1d.webp" width="20px" height="20px"> 𝑶𝒕𝒓𝒂𝒔 𝑯𝒂𝒃𝒊𝒍𝒊𝒅𝒂𝒅𝒆𝒔:</b></h2>
 
   <div align="center">
-<img src="https://pythonforundergradengineers.com/posts/git/images/git_and_github_logo.png" width="50%"; height="200px">
+<img src="https://pythonforundergradengineers.com/posts/git/images/git_and_github_logo.png" width="400px"; height="200px">
 </div>
 <div align="center">
-<img src="https://assets.website-files.com/5ee732bebd9839b494ff27cd/5eef857ac5443d6519886e5a_PS.png" width="50%"; height="200px">
+<img src="https://assets.website-files.com/5ee732bebd9839b494ff27cd/5eef857ac5443d6519886e5a_PS.png" width="400px"; height="200px">
 </div>
   <div align="center">
-<img src="https://www.islabit.com/wp-content/uploads/2018/12/Microsoft-Office.jpg" width="50%"; height="200px">
+<img src="https://www.islabit.com/wp-content/uploads/2018/12/Microsoft-Office.jpg" width="400px"; height="200px">
 </div>
   
 
