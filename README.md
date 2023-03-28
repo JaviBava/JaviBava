@@ -92,7 +92,7 @@
 
 <hr>
 <div align="center">
-<img src="https://www.factoriabiz.com/wp-content/uploads/2018/03/contratar_programador.jpg" width="70%";height:"auto">
+<img src="https://www.factoriabiz.com/wp-content/uploads/2018/03/contratar_programador.jpg" width="400px";height:"auto">
 </div>
 <hr>
 
