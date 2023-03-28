@@ -34,13 +34,13 @@
 <hr>
   <h2><b><img src="https://symbl-world.akamaized.net/i/webp/0d/5232f11b284da4884088de94d0da1d.webp" width="20px" height="20px"> 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 & 𝑻𝒐𝒐𝒍𝒔:</b></h2>
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToRQmiECDW8av85V9bYlzjMUv37zxfTg-9dw&usqp=CAU" width="50%"; height="200px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToRQmiECDW8av85V9bYlzjMUv37zxfTg-9dw&usqp=CAU" width="400px"; height="200px">
 </div> 
 <div align="center">
-<img src="https://www.mindfiresolutions.com/blog/wp-content/uploads/Java-vs-PHP-for-Enterprise-Application-Development.jpg" width="50%"; height="200px">
+<img src="https://www.mindfiresolutions.com/blog/wp-content/uploads/Java-vs-PHP-for-Enterprise-Application-Development.jpg" width="400px"; height="200px">
   </div>
   <div align="center">
-<img src="https://dd.engineering/blog/how-to-set-up-a-back-end-project-using-typescript-and-node-js/banner.png" width="50%"; height="200px">
+<img src="https://dd.engineering/blog/how-to-set-up-a-back-end-project-using-typescript-and-node-js/banner.png" width="400px"; height="200px">
 </div>
   
 <br>
