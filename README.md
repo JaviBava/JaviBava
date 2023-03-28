@@ -91,11 +91,6 @@
 <p align="center"><b>Me capacito constantemente, adquiriendo nuevas habilidad y conocimientos.</b></p>
 
 <hr>
-<div align="center">
-<img src="https://www.factoriabiz.com/wp-content/uploads/2018/03/contratar_programador.jpg" width="400px";height:"auto">
-</div>
-<hr>
-
 
 <h2><b><img src="https://symbl-world.akamaized.net/i/webp/0d/5232f11b284da4884088de94d0da1d.webp" width="20px" height="20px"> 𝑩𝒖𝒔𝒊𝒏𝒆𝒔𝒔 𝒄𝒂𝒓𝒅 / 𝑪𝒐𝒏𝒕𝒂𝒄𝒕:</b></h2>
   
