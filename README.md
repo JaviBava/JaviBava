@@ -25,7 +25,7 @@
 </div>
 </div>
 <hr>
-<img src="https://talently.tech/blog/wp-content/uploads/2022/03/ramas-de-la-programacion-scaled.jpg" width="100%">
+<img src="https://talently.tech/blog/wp-content/uploads/2022/03/ramas-de-la-programacion-scaled.jpg" width="100%"; height="150px">
 <hr>
 <body>
 
@@ -34,15 +34,16 @@
 <hr>
   <h2><b><img src="https://symbl-world.akamaized.net/i/webp/0d/5232f11b284da4884088de94d0da1d.webp" width="20px" height="20px"> 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 & 𝑻𝒐𝒐𝒍𝒔:</b></h2>
 <div align="center">
-<img src="https://us.123rf.com/450wm/freestyle25/freestyle252207/freestyle25220700011/190278964-colecci%C3%B3n-de-vectores-de-signos-de-escudo-de-desarrollo-web-html5-css3-javascript.jpg?ver=6" width="500px"; height:"200px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToRQmiECDW8av85V9bYlzjMUv37zxfTg-9dw&usqp=CAU" width="500px"; height:"200px">
 </div> 
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="100px"; w
-     height="100px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlWkibXFdfUB7h7FmKLmgwxe-__BdMPGNGDA&usqp=CAU" width="150px"; height="100px">
-<img src="https://logowik.com/content/uploads/images/php.jpg" width="150px"; height="100px">
-<img src="https://informatics.uii.ac.id/wp-content/uploads/2022/09/nodejs.png" width="150px"; height="100px">
+<img src="https://www.mindfiresolutions.com/blog/wp-content/uploads/Java-vs-PHP-for-Enterprise-Application-Development.jpg" width="500px"; 
+     height="200px">
+  </div>
+  <div align="center">
+<img src="https://dd.engineering/blog/how-to-set-up-a-back-end-project-using-typescript-and-node-js/banner.png" width="500px"; height="200px">
 </div>
+  
 <br>
 <hr>
 
@@ -69,6 +70,16 @@
 
 <h2><b><img src="https://symbl-world.akamaized.net/i/webp/0d/5232f11b284da4884088de94d0da1d.webp" width="20px" height="20px"> 𝑶𝒕𝒓𝒂𝒔 𝑯𝒂𝒃𝒊𝒍𝒊𝒅𝒂𝒅𝒆𝒔:</b></h2>
 
+  <div align="center">
+<img src="https://pythonforundergradengineers.com/posts/git/images/git_and_github_logo.png" width="500px"; height:"200px">
+</div>
+<div align="center">
+<img src="https://assets.website-files.com/5ee732bebd9839b494ff27cd/5eef857ac5443d6519886e5a_PS.png" width="500px"; height:"200px">
+</div>
+  <div align="center">
+<img src="https://www.islabit.com/wp-content/uploads/2018/12/Microsoft-Office.jpg" width="500px"; heigth:"100px">
+</div>
+  
 
 ✔ Git.
 ✔ Github.
