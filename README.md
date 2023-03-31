@@ -1,7 +1,8 @@
 <hr>
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/103806440/228097812-2dabfd4d-ff72-44ee-86b6-0c92b62dee26.jpg" width="100%" height="100px">
+
+<img src="https://user-images.githubusercontent.com/103806440/228991471-eb129f34-1bd9-4e59-8487-91bab0c90fa1.jpg" width="100%" height="130px">
 
 </div>
 <hr>
