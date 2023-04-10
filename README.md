@@ -30,7 +30,9 @@
 <hr>
 <body>
 
-<p align="justify"><img src="https://cdn-0.emojis.wiki/emoji-pics/apple/globe-showing-americas-apple.png" width="20px"; height="20px"> ¡𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱! Sean bienvenidos a mi perfil. Me presento, mi nombre es 𝙅𝙖𝙫𝙞𝙚𝙧. Actualmente vivo en Buenos Aires, Argentina. Me considero un apasionado de la tecnología y el conocimiento. Enfocado en avanzar en 𝘿𝙚𝙨𝙖𝙧𝙧𝙤𝙡𝙡𝙤 y 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙖𝙘𝙞𝙤𝙣.</p>
+<p align="justify"><img src="https://cdn-0.emojis.wiki/emoji-pics/apple/globe-showing-americas-apple.png" width="20px"; height="20px"> ¡𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅! Sean bienvenidos a mi perfil. Me presento, mi nombre es 𝙅𝙖𝙫𝙞𝙚𝙧. Actualmente vivo en Buenos Aires, Argentina. Me considero un apasionado de la tecnología y el conocimiento. Enfocado en avanzar en 𝘿𝙚𝙨𝙖𝙧𝙧𝙤𝙡𝙡𝙤 y 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙖𝙘𝙞𝙤𝙣.</p>
+  
+ <p align="justify"><img src="https://cdn-0.emojis.wiki/emoji-pics/apple/globe-showing-americas-apple.png" width="20px"; height="20px"> ¡𝑯𝒐𝒍𝒂 𝑴𝒖𝒏𝒅𝒐! Welcome to my profile. Let me introduce myself, my name is 𝙅𝙖𝙫𝙞𝙚𝙧 and I currently live in Buenos Aires, Argentina. I consider myself passionate about technology and knowledge, focused on advancing in 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 and 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜.</p>
 
 <hr>
   <h2><b><img src="https://symbl-world.akamaized.net/i/webp/0d/5232f11b284da4884088de94d0da1d.webp" width="20px" height="20px"> 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 & 𝑻𝒐𝒐𝒍𝒔:</b></h2>
@@ -40,7 +42,6 @@
 <img src="https://dd.engineering/blog/how-to-set-up-a-back-end-project-using-typescript-and-node-js/banner.png" width="200px"; height="100px">
 </div>
   
-<br>
 <hr>
 
 <h2><b><img src="https://symbl-world.akamaized.net/i/webp/0d/5232f11b284da4884088de94d0da1d.webp" width="20px" height="20px">
@@ -50,7 +51,7 @@
 <img src="https://sloboda-studio.com/wp-content/uploads/2018/04/1.png" width="200px"; height="100px">
 <img src="https://www.eniun.com/wp-content/uploads/Bootstrap-descargar-instalar.png" width="200px"; height="100px">
 </div>
-<br>
+
 <hr>
 
   <h2><b><img src="https://symbl-world.akamaized.net/i/webp/0d/5232f11b284da4884088de94d0da1d.webp" width="20px" height="20px"> 𝑩𝒂𝒔𝒆𝒔 𝒅𝒆 𝑫𝒂𝒕𝒐𝒔:</b></h2>
@@ -59,7 +60,7 @@
 <div align="center">
 <img src="https://www.educative.io/v2api/editorpage/6575689680551936/image/4670199253958656" width="200px"; height="100px">
 </div>
-<br>
+
 <hr>
 
 <h2><b><img src="https://symbl-world.akamaized.net/i/webp/0d/5232f11b284da4884088de94d0da1d.webp" width="20px" height="20px"> 𝑶𝒕𝒓𝒂𝒔 𝑯𝒂𝒃𝒊𝒍𝒊𝒅𝒂𝒅𝒆𝒔:</b></h2>
@@ -72,7 +73,9 @@
   
 
 <hr>
-<p align="center"><b>Me capacito constantemente, adquiriendo nuevas habilidades y conocimientos.</b></p>
+<p align="justify"><img src="https://user-images.githubusercontent.com/103806440/230803957-6b44a103-acb2-4b5c-b514-22f68bd73c20.png" width="20px" height="20px"> <b>Me capacito constantemente, adquiriendo nuevas habilidades y conocimientos.</b></p>
+  
+<p align="justify"><img src="https://user-images.githubusercontent.com/103806440/230803957-6b44a103-acb2-4b5c-b514-22f68bd73c20.png" width="20px" height="20px"> <b>I constantly train myself, acquiring new skills and knowledge.</b></p> 
 
 <hr>
 
