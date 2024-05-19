@@ -66,7 +66,7 @@
 <h2><b><img src="https://symbl-world.akamaized.net/i/webp/0d/5232f11b284da4884088de94d0da1d.webp" width="20px" height="20px"> 𝑶𝒕𝒓𝒂𝒔 𝑯𝒂𝒃𝒊𝒍𝒊𝒅𝒂𝒅𝒆𝒔:</b></h2>
 
   <div align="center">
-<img src="https://lucascyrillo.com.br/content/images/2021/11/BANNER_POST_GIT.png" width="200px"; height="100px">
+<img src="https://www.freecodecamp.org/espanol/news/content/images/2022/07/git-and-github.png" width="200px"; height="100px">
 <img src="https://www.adobe.com/content/dam/cc/us/en/products/photoshop/photoshop-1200x630.jpg" width="200px"; height="100px">
 <img src="https://www.islabit.com/wp-content/uploads/2018/12/Microsoft-Office.jpg" width="200px"; height="100px">
 </div>
