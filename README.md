@@ -25,7 +25,7 @@
 </div>
 </div>
 <hr>
-<img src="https://talently.tech/blog/wp-content/uploads/2022/03/ramas-de-la-programacion-scaled.jpg" width="100%"; height="150px">
+<img src="[https://talently.tech/blog/wp-content/uploads/2022/03/ramas-de-la-programacion-scaled.jpg](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1711/karpenkoilia171100004/90421022-concepto-de-web-de-l%C3%ADnea-horizontal-para-grandes-datos-vector-web-banner-lineal-para-base-de-datos.jpg)" width="100%"; height="150px">
 <hr>
 <body>
 
