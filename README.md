@@ -24,9 +24,7 @@
 
 </div>
 </div>
-<hr>
-<img src="[https://talently.tech/blog/wp-content/uploads/2022/03/ramas-de-la-programacion-scaled.jpg](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1711/karpenkoilia171100004/90421022-concepto-de-web-de-l%C3%ADnea-horizontal-para-grandes-datos-vector-web-banner-lineal-para-base-de-datos.jpg)" width="100%"; height="150px">
-<hr>
+
 <body>
 
 <p align="justify"><img src="https://cdn-0.emojis.wiki/emoji-pics/apple/globe-showing-americas-apple.png" width="20px"; height="20px"> ¡𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅! Sean bienvenidos a mi perfil. Me presento, mi nombre es 𝙅𝙖𝙫𝙞𝙚𝙧. Actualmente vivo en Buenos Aires, Argentina. Me considero un apasionado de la tecnología y el conocimiento. Enfocado en avanzar en 𝘿𝙚𝙨𝙖𝙧𝙧𝙤𝙡𝙡𝙤 y 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙖𝙘𝙞𝙤𝙣.</p>
