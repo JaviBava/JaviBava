@@ -86,7 +86,7 @@
  <h2> <b>🔻🔻🔻 𝑪𝒉𝒆𝒄𝒌 𝒎𝒚 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒊𝒆𝒔... 🔻🔻🔻</b></h2>
 </body>
 <hr>
-<footer><p align="center"><B><img src="https://symbl-world.akamaized.net/i/webp/f1/f862605c00befab73808ade82a3f72.webp" width="20px"; height="20px"> JaviBava 2023</B></p></footer>
+<footer><p align="center"><B><img src="http://images.emojiterra.com/twitter/512px/a9.png" width="20px"; height="20px"> JaviBava 2023</B></p></footer>
   
   
 
