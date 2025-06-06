@@ -15,7 +15,7 @@
 <hr>
 
 <div> 
-<h2><b><img src="https://symbl-world.akamaized.net/i/webp/0d/5232f11b284da4884088de94d0da1d.webp" width="20px" height="20px"> 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒉𝒊𝒕 𝒎𝒆: :speech_balloon:</b></h2>
+<h2><b><img src="https://img.freepik.com/premium-vector/check-mark-icon-circle-isolated-green-background-vector-illustration_230920-1405.jpg" width="20px" height="20px"> 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒉𝒊𝒕 𝒎𝒆: :speech_balloon:</b></h2>
 <div align="center"; margin="auto">
 <a href="https://github.com/JaviBava" target="_blank"><img src="https://blog.geekhunter.com.br/wp-content/uploads/2017/08/github-768x384.png" width="200px"; height=100px"></a>
 <a href="https://instagram.com/javier.bava?igshid=ZDdkNTZiNTM="><img src="https://seocom.agency/wp-content/uploads/2021/01/Instagram_SEO.gif" width="200px"; height=100px"></a>
@@ -32,7 +32,7 @@
  <p align="justify"><img src="https://cdn-0.emojis.wiki/emoji-pics/apple/globe-showing-americas-apple.png" width="20px"; height="20px"> ¡𝑯𝒐𝒍𝒂 𝑴𝒖𝒏𝒅𝒐! Welcome to my profile. Let me introduce myself, my name is 𝙅𝙖𝙫𝙞𝙚𝙧 and I currently live in Buenos Aires, Argentina. I consider myself passionate about technology and knowledge, focused on advancing in 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 and 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜.</p>
 
 <hr>
-  <h2><b><img src="https://symbl-world.akamaized.net/i/webp/0d/5232f11b284da4884088de94d0da1d.webp" width="20px" height="20px"> 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 & 𝑻𝒐𝒐𝒍𝒔:</b></h2>
+  <h2><b><img src="https://img.freepik.com/premium-vector/check-mark-icon-circle-isolated-green-background-vector-illustration_230920-1405.jpg" width="20px" height="20px"> 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 & 𝑻𝒐𝒐𝒍𝒔:</b></h2>
 <div align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToRQmiECDW8av85V9bYlzjMUv37zxfTg-9dw&usqp=CAU" width="200px"; height="100px">
 <img src="https://www.mindfiresolutions.com/blog/wp-content/uploads/Java-vs-PHP-for-Enterprise-Application-Development.jpg" width="200px"; height="100px">
@@ -41,7 +41,7 @@
   
 <hr>
 
-<h2><b><img src="https://symbl-world.akamaized.net/i/webp/0d/5232f11b284da4884088de94d0da1d.webp" width="20px" height="20px">
+<h2><b><img src="https://img.freepik.com/premium-vector/check-mark-icon-circle-isolated-green-background-vector-illustration_230920-1405.jpg" width="20px" height="20px">
 𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔:</b></h2>
 
 <div align="center">
@@ -52,7 +52,7 @@
 
 <hr>
 
-  <h2><b><img src="https://symbl-world.akamaized.net/i/webp/0d/5232f11b284da4884088de94d0da1d.webp" width="20px" height="20px"> 𝑩𝒂𝒔𝒆𝒔 𝒅𝒆 𝑫𝒂𝒕𝒐𝒔:</b></h2>
+  <h2><b><img src="https://img.freepik.com/premium-vector/check-mark-icon-circle-isolated-green-background-vector-illustration_230920-1405.jpg" width="20px" height="20px"> 𝑩𝒂𝒔𝒆𝒔 𝒅𝒆 𝑫𝒂𝒕𝒐𝒔:</b></h2>
 
 
 <div align="center">
@@ -61,7 +61,7 @@
 
 <hr>
 
-<h2><b><img src="https://symbl-world.akamaized.net/i/webp/0d/5232f11b284da4884088de94d0da1d.webp" width="20px" height="20px"> 𝑶𝒕𝒓𝒂𝒔 𝑯𝒂𝒃𝒊𝒍𝒊𝒅𝒂𝒅𝒆𝒔:</b></h2>
+<h2><b><img src="https://img.freepik.com/premium-vector/check-mark-icon-circle-isolated-green-background-vector-illustration_230920-1405.jpg" width="20px" height="20px"> 𝑶𝒕𝒓𝒂𝒔 𝑯𝒂𝒃𝒊𝒍𝒊𝒅𝒂𝒅𝒆𝒔:</b></h2>
 
   <div align="center">
 <img src="https://www.freecodecamp.org/espanol/news/content/images/2022/07/git-and-github.png" width="200px"; height="100px">
@@ -77,7 +77,7 @@
 
 <hr>
 
-<h2><b><img src="https://symbl-world.akamaized.net/i/webp/0d/5232f11b284da4884088de94d0da1d.webp" width="20px" height="20px"> 𝑩𝒖𝒔𝒊𝒏𝒆𝒔𝒔 𝒄𝒂𝒓𝒅 / 𝑪𝒐𝒏𝒕𝒂𝒄𝒕:</b></h2>
+<h2><b><img src="https://img.freepik.com/premium-vector/check-mark-icon-circle-isolated-green-background-vector-illustration_230920-1405.jpg" width="20px" height="20px"> 𝑩𝒖𝒔𝒊𝒏𝒆𝒔𝒔 𝒄𝒂𝒓𝒅 / 𝑪𝒐𝒏𝒕𝒂𝒄𝒕:</b></h2>
   
 ![tarjetaPresentacion](https://user-images.githubusercontent.com/103806440/226474212-a49c2937-da4f-4fdc-a98e-2a4670001af5.jpg)
 
