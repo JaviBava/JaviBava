@@ -27,7 +27,7 @@
 
 <body>
 
-<p align="justify"><img src="https://cdn-0.emojis.wiki/emoji-pics/apple/globe-showing-americas-apple.png" width="20px"; height="20px"> ¡𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅! Sean bienvenidos a mi perfil. Me presento, mi nombre es 𝙅𝙖𝙫𝙞𝙚𝙧. Actualmente vivo en Buenos Aires, Argentina. Me considero un apasionado de la tecnología y el conocimiento. Enfocado en avanzar en 𝘿𝙚𝙨𝙖𝙧𝙧𝙤𝙡𝙡𝙤 y 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙖𝙘𝙞𝙤𝙣.</p>
+<p align="justify"><img src="https://cdn-0.emojis.wiki/emoji-pics/apple/globe-showing-americas-apple.png" width="20px"; height="20px"> ¡𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅! Sean bienvenidos a mi perfil. Mi nombre es 𝙅𝙖𝙫𝙞𝙚𝙧. Actualmente vivo en Buenos Aires, Argentina. Me considero un apasionado de la tecnología y el conocimiento. Enfocado en avanzar en 𝘿𝙚𝙨𝙖𝙧𝙧𝙤𝙡𝙡𝙤 y 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙖𝙘𝙞𝙤𝙣.</p>
   
  <p align="justify"><img src="https://cdn-0.emojis.wiki/emoji-pics/apple/globe-showing-americas-apple.png" width="20px"; height="20px"> ¡𝑯𝒐𝒍𝒂 𝑴𝒖𝒏𝒅𝒐! Welcome to my profile. Let me introduce myself, my name is 𝙅𝙖𝙫𝙞𝙚𝙧 and I currently live in Buenos Aires, Argentina. I consider myself passionate about technology and knowledge, focused on advancing in 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 and 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜.</p>
 
